@@ -1,0 +1,71 @@
+.jumbotron {
+    background: url("../img/analysis.jpg");
+    background-size: cover;
+    min-height: 400px;
+}
+
+body {
+    background-color: #00AFF6;
+}
+
+h1 {
+    margin-left: 100px;
+}
+#btn {
+    margin-top: 90px;
+}
+
+.img1{
+    height: 200px;
+    width: 1500px;
+}
+
+.carousel1 img{
+    max-height: 600px;
+}
+
+.primary1 {
+margin-left: 115px;
+margin-right: 115px;
+}
+
+.primary2 {
+    margin-left: 115px;
+    margin-right: 115px;
+}
+
+.primary3 {
+    margin-left: 115px;
+    margin-right: 115px;
+}
+
+.container1 {
+
+    }
+
+.btn1:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,.2);
+}
+
+.btn1:active {
+    transform: translateY(-1px);
+		box-shadow: 0 10px 20px rgba(0,0,0,.2);
+}
+
+
+.prueba{
+    z-index: 10;
+}
+
+.card1 {
+    margin-bottom: 100px;
+}
+
+.footerimg {
+    height: 100px;
+}
+
+.colorql1 {
+    color: #00AFF6;
+}
